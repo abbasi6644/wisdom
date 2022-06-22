@@ -1,0 +1,7 @@
+<svg id="Cursor" xmlns="http://www.w3.org/2000/svg" width="20" height="35" viewBox="0 0 20 35">
+  <g id="Rectangle_9" data-name="Rectangle 9" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="4">
+    <rect width="20" height="35" rx="10" stroke="none"/>
+    <rect x="2" y="2" width="16" height="31" rx="8" fill="none"/>
+  </g>
+  <line id="Line_3" data-name="Line 3" y2="10" transform="translate(10.5 8.5)" fill="none" stroke="rgba(255,255,255,0.4)" stroke-linecap="round" stroke-width="3"/>
+</svg>
