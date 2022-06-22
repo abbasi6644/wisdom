@@ -36,7 +36,8 @@ export default function Header() {
                                             <li className='menu-item'><Link to="glitch-banner" spy={true} smooth={true}>Project 2</Link></li>
                                             <li className='menu-item'><Link to="glitch-banner" spy={true} smooth={true}>Project 3</Link></li>
                                         </ul>
-                                    </li>
+                                </li>
+                                
                                 <li className='menu-item'><Link to="roadmap-wrap" spy={true} smooth={true}>Our Partners</Link></li>
                                 <li className='menu-item'><Link to="team" spy={true} smooth={true}>Testimonials</Link></li>
                                 <li className='menu-item'><Link to="mint" spy={true} smooth={true}>Contact</Link></li>
