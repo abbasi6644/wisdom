@@ -9,7 +9,7 @@ export default function Header() {
                 <div className='super-header'>
                     <div className='container'>
                         <ul className='contact-info'>
-                            <li className='phone-info'><img src="img/phone.svg" width="16" height="16" alt="" /><a href='tel:+44 (0)20 3769 4927'>+44 (0)20 3769 4927</a></li>
+                            <li className='phone-info'><img src="img/logo.svg" width="16" height="16" alt="" /><a href='tel:+44 (0)20 3769 4927'>+44 (0)20 3769 4927</a></li>
                             <li className='mail-info'><img src="img/email.svg" width="16" height="16" alt="" /><a href='mailto:info@wisdom.events'>info@wisdom.events</a></li>
                             <li><a href='#'>Career</a></li>
                             <li><a href='#'>Blog</a></li>
