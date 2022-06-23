@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/wisdom/static/css/main.7d27b283.css",
+    "main.js": "/wisdom/static/js/main.ce69f835.js",
+    "static/js/787.4cd0bc96.chunk.js": "/wisdom/static/js/787.4cd0bc96.chunk.js",
+    "static/media/wisdom-icon-grey.svg": "/wisdom/static/media/wisdom-icon-grey.13cd4f2ced09d8702af6.svg",
+    "index.html": "/wisdom/index.html",
+    "static/media/cursor.svg": "/wisdom/static/media/cursor.5487c48bb15434573a6f.svg",
+    "static/media/date.svg": "/wisdom/static/media/date.d1305bbe02068754cb74.svg",
+    "static/media/eye.svg": "/wisdom/static/media/eye.dc66da52d610c95175be.svg",
+    "main.7d27b283.css.map": "/wisdom/static/css/main.7d27b283.css.map",
+    "main.ce69f835.js.map": "/wisdom/static/js/main.ce69f835.js.map",
+    "787.4cd0bc96.chunk.js.map": "/wisdom/static/js/787.4cd0bc96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d27b283.css",
+    "static/js/main.ce69f835.js"
+  ]
+}
